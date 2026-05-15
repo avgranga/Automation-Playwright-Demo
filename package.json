@@ -1,0 +1,22 @@
+{
+  "name": "automation-playwright-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avgranga/Automation-Playwright-Demo.git"
+  },
+  "keywords": [],
+  "author": "Ranga Wimarshana <avgranga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avgranga/Automation-Playwright-Demo/issues"
+  },
+  "homepage": "https://github.com/avgranga/Automation-Playwright-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
